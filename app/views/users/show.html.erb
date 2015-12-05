@@ -1,5 +1,7 @@
 <p id="notice"><%= notice %></p>
 
+<%= image_tag(@user.picture_url, width: '10%') if @user.picture.present? %>
+
 <p>
   <strong>Username:</strong>
   <%= @user.username %>
