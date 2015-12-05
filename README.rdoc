@@ -1,28 +1,8 @@
-== README
+This is a tutorial which I have completed in order to learn about authenticating
+users on a RoR app. After trying to use Devise on rails-girls(which you will
+also find on this account), I tried to learn Authlogic. I feel as though I have
+had more success, as you will see if you take this repository out for a
+spin. I will also be adding fun updates to this repository as I continue on my
+adventures in RoR. Stay tuned!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Tutorial source: http://www.logansbailey.com/how-to-setup-authlogic-in-rails-3
